@@ -19,7 +19,7 @@ body {
 /* Keep your existing styles for the links and buttons */
 .navbar a { 
     color: #00FF41 !important; /* Added !important to the color as well */
-    font-size: 70%;
+    
 }
 
 /* --- Add these styles to your styles.css --- */
